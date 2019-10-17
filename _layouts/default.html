@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class='flex-col'>
+    {% include navigation.html %}
+    {% include title-image.html %}
+    <div class='flex color-bg-off-white'>
+        <div class='max-width'>
+            <div class='mhm mhs-sm mvl'>
+                {{ content }}
+            </div>
+        </div>
+    </div>
+
+    {% include footer.html %}
+</body>
+</html>

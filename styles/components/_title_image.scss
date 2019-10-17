@@ -1,0 +1,26 @@
+.title-image {
+  min-height: 22rem;
+  max-height: 22rem;
+
+  background-color: #4a4a4a;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/assets/images/low-panorama.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  .title {
+    @extend .mas;
+    @extend .color-white;
+    font-size: 4rem;
+    font-style: italic;
+    font-weight: 800;
+    letter-spacing: .2rem;
+    line-height: 1.2;
+    max-width: 50rem;
+    text-align: center;
+
+    @include screen-small {
+      font-size: 3.2rem;
+    }
+  }
+}

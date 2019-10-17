@@ -1,0 +1,25 @@
+$screen-small: 48rem;  // 768px
+$screen-medium: 62px;  // 992px
+$screen-large: 75rem;  // 1200px
+
+
+/* Small devices (tablets, 768px and up) */
+@mixin screen-small {
+  @media (max-width: #{$screen-small}) {
+    @content;
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@mixin screen-medium {
+  @media (max-width: #{$screen-medium}) {
+    @content;
+  }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@mixin screen-large {
+  @media (max-width: #{$screen-large}) {
+    @content;
+  }
+}

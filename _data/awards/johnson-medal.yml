@@ -1,0 +1,46 @@
+name: Samuel Johnson Medal
+title: for distinguished achievement in a field beyond engineering
+description: >
+  The medal is in honor of Samuel Johnson, who served as the first president of King’s College, the predecessor of
+  Columbia University, from 1754 to 1762. Samuel Johnson’s vision for King’s College was for it to provide an
+  exceptional, well-rounded education that included both the liberal arts as well as the applied sciences as understood
+  in his time. The Medal was first awarded in 2007.
+  
+  
+  The medal is in recognition of distinguished achievement in fields beyond engineering and applied science. Examples
+  of these fields may include education, law, public affairs, business, social sciences, architecture, and the arts.
+  The recipient must have significantly advanced his or her chosen field of endeavor or demonstrated exceptional
+  leadership.
+  
+  
+  This medal is awarded periodically by the Board of Managers of the Columbia Engineering Alumni Association (CEAA)
+  with the concurrence of the Dean of the Fu Foundation School of Engineering and Applied Science. The recipient must
+  be a graduate of the School of Engineering and Applied Science.
+recipients: 
+  - year: 2019
+    name: Alvin Roth
+    description: The 2012 recipient of the Nobel Prize in Economics alongside American economist Lloyd Shapley. Acclaimed for his work in the areas of game theory, experimental economics, and market design.
+  - year: 2018
+    name: Jim Albaugh
+    description: Mr. Albaugh is a renowned international leader in the fields of aviation, aerospace, and defense. He is the former executive vice president of The Boeing Company and chief executive officer of the Boeing Commercial Airplanes unit.
+  - year: 2017
+    name: Leonard Blavatnik
+    description: Founder and chairman of Access Industries, a privately held industrial group. Mr. Blavatnik is a serial entrepreneur, widely recognized as one of most successful global business leaders of the last 30 years.
+  - year: 2016
+    name: Ralph Izzo
+    description: CEO of PSEG. Mr. Izzo is a well-known leader within the utility industry, as well as the public policy arena. He is frequently asked to testify before Congress and speak to organizations on matters pertaining to national energy policy.
+  - year: 2015
+    name: Ehud Geller
+    description: Founder and director of biotech and healthcare companies.
+  - year: 2014
+    name: Ursula Burns
+    description: Chairman and CEO of Xerox; for her work transforming one of the nation’s most iconic brands into a global leader in business process; for her commitment and work to improve science, technology, engineering, and mathematics education for future generations.
+  - year: 2012
+    name: Jae-Un Chung
+    description: Former vice chair of Samsung and honorary chairman of the Chosun Hotel Co. and of the Shinsegae Group; for pioneering new management style of “open management”.
+  - year: 2011
+    name: Vikram S. Pandit
+    description: For his leadership of one of the most systemically important global financial institutions at a time of unprecedented transitions and challenges.
+  - year: 2007
+    name: Ira M. Millstein
+    description: For his leadership role in framing issues of corporate governance and in fashioning workable solutions to complex issues of corporate board responsibility and ethics and for acknowledged legal expertise in the fields of corporate governance, antitrust and government regulation and for pro bono commitment to the broader civic community as a key adviser to, among others, the Lower Manhattan Development Corp., the World Trade Center Memorial Foundation, the Metropolitan Transportation Authority, the Central Park Conservancy, and as Chairman of the New York State Commission on Public Authority Reform.

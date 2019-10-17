@@ -1,0 +1,88 @@
+@mixin common-layout-classes($breakpoint: '') {
+  .flex#{$breakpoint} {
+    flex: 1;
+  }
+
+  .flex-row#{$breakpoint} {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .flex-col#{$breakpoint} {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .flex-colr#{$breakpoint} {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .flex-wrap#{$breakpoint} {
+    flex-wrap: wrap;
+  }
+
+  .flex-hs#{$breakpoint} {
+    justify-content: flex-start;
+  }
+
+  .flex-he#{$breakpoint} {
+    justify-content: flex-end;
+  }
+
+  .flex-hc#{$breakpoint} {
+    justify-content: center;
+  }
+
+  .flex-hb#{$breakpoint} {
+    justify-content: space-between;
+  }
+
+  .flex-ha#{$breakpoint} {
+    justify-content: space-around;
+  }
+
+  .flex-vt#{$breakpoint} {
+    align-items: flex-start;
+  }
+
+  .flex-vb#{$breakpoint} {
+    align-items: flex-end;
+  }
+
+  .flex-vc#{$breakpoint} {
+    align-items: center;
+  }
+
+  .flex-vs#{$breakpoint} {
+    align-items: stretch;
+  }
+
+  .full-width#{$breakpoint} {
+    width: 100%;
+  }
+  
+  .hide#{$breakpoint} {
+    display: none
+  }
+}
+
+@include common-layout-classes;
+@include screen-small {
+  @include common-layout-classes('-sm');
+}
+@include screen-medium {
+  @include common-layout-classes('-md');
+}
+@include screen-large {
+  @include common-layout-classes('-lg');
+}
+
+.max-width {
+  max-width: $screen-large;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
