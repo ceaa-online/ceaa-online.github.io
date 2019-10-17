@@ -1,0 +1,63 @@
+$spacing-tiny: 0.5rem;
+$spacing-small: 1rem;
+$spacing-medium: 2rem;
+$spacing-large: 4rem;
+
+$size-map: (
+        't': $spacing-tiny,
+        's': $spacing-small,
+        'm': $spacing-medium,
+        'l': $spacing-large,
+        'n': 0
+);
+
+@mixin spacing-classes($type-abbr, $type, $size-abbr, $size, $breakpoint: '') {
+  .#{$type-abbr}a#{$size-abbr}#{$breakpoint} {
+    #{$type}: $size;
+  }
+
+  .#{$type-abbr}h#{$size-abbr}#{$breakpoint} {
+    #{$type}-left: $size;
+    #{$type}-right: $size;
+  }
+
+  .#{$type-abbr}v#{$size-abbr}#{$breakpoint} {
+    #{$type}-top: $size;
+    #{$type}-bottom: $size;
+  }
+
+  .#{$type-abbr}l#{$size-abbr}#{$breakpoint} {
+    #{$type}-left: $size;
+  }
+
+  .#{$type-abbr}r#{$size-abbr}#{$breakpoint} {
+    #{$type}-right: $size;
+  }
+
+  .#{$type-abbr}t#{$size-abbr}#{$breakpoint} {
+    #{$type}-top: $size;
+  }
+
+  .#{$type-abbr}b#{$size-abbr}#{$breakpoint} {
+    #{$type}-bottom: $size;
+  }
+}
+
+@mixin spacing-classes-generator($breakpoint: '') {
+  @each $type-abbr, $type in ('m': 'margin', 'p': 'padding') {
+    @each $size-abbr, $size in $size-map {
+      @include spacing-classes($type-abbr, $type, $size-abbr, $size, $breakpoint);
+    }
+  }
+}
+
+@include spacing-classes-generator;
+@include screen-small {
+  @include spacing-classes-generator('-sm');
+}
+@include screen-medium {
+  @include spacing-classes-generator('-md');
+}
+@include screen-large {
+  @include spacing-classes-generator('-lg');
+}

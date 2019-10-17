@@ -1,0 +1,23 @@
+a {
+  @extend .color-blue;
+}
+
+h2 > a {
+  color: $color-black;
+  cursor: default;
+}
+
+li > a {
+  text-decoration: underline;
+}
+
+p > a {
+  display: inline-block;
+  text-decoration: underline;
+}
+
+.grow > a {
+  &:hover { 
+    transform: scale(1.04, 1.04);
+  }
+}

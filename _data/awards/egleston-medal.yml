@@ -1,0 +1,304 @@
+name: Thomas Egleston Medal
+title: for distinguished engineering achievement
+description: >
+  The medal is in honor of Thomas Egleston, who founded the School of Mines of Columbia College in 1864, the first of
+  its kind in the United States. Subsequently, the School of Mines became the Columbia University School of Engineering
+  and Applied Science. Thomas Egleston continued his association with the School of Mines as its dean and a professor
+  until 1900. The Medal was first awarded in 1939.
+  
+  
+  The medal is in recognition of distinguished achievement in engineering or applied science. The recipient must have
+  significantly advanced his or her field of the engineering profession or the management of engineering activities.
+  
+  
+  This medal is awarded annually by the Board of Managers of the Columbia Engineering Alumni Association (CEAA) with the
+  concurrence of the Dean of the Fu Foundation School of Engineering and Applied Science. The recipient must be a
+  graduate of the School of Engineering and Applied Science.
+recipients:
+  - year: 2019
+    name: Harry Tuller
+    description: His research on defects, diffusion, and the electrical, electrochemical, and optical properties of metal oxides has numerous applications in the development of sensors, energy conversion (fuel cells, solar water splitting), computer memories, and MEMS devices.
+  - year: 2018
+    name: Fermi Wang
+    description: Serial entrepreneur and video compression technology expert, Dr. Wang has helped revolutionize digital television transmission and broadcasting, making possible all of the streaming media services available today.
+  - year: 2017
+    name: Alan Willner
+    description: Credited with enabling the advancement of information transfer around the world, Dr. Willner is one of the world’s foremost scholars in the areas of optics, photonics, and high-speed optical networks.
+  - year: 2016
+    name: Sheldon Wiederhorn
+    description: Dr. Wiederhorn is best known for the experiments that he developed to characterize sub‑critical crack growth in glasses. Techniques pioneered by Dr Wiederhorn are now used to assure the reliability of glass windows in airplanes, space-vehicles and related applications.
+  - year: 2015
+    name: Donald E. Ross
+    description: Managing partner of Jaros Baum and Bolles, responsible for the design of mechanical and electrical systems for major tall commercial buildings throughout the world.
+  - year: 2014
+    name: Chuck Hoberman
+    description: Renowned inventor, designer, architect, and mechanical engineer, known for his groundbreaking work on “transformable structures.
+  - year: 2013
+    name: Michael Abrahams
+    description: World-class structural engineer, having designed and repaired bridge, tunnels, and buildings around the world.
+  - year: 2013
+    name: Donald Ferguson
+    description: Thought-leader in cloud computing; father of IBM’s Web Sphere business and leader of software design across the country.
+  - year: 2012
+    name: Bernard Roth
+    description: Co-founder of and instructor at Stanford’s Hasso Plattner Institute of Design (d.School); pioneering researcher in kinematics, robotics, and design
+  - year: 2011
+    name: Michael Massimino
+    description: An astronaut, successfully completing two spaceflights on shuttles Atlantis and Columbia as well as over thirty hours of spacewalk time, he has also worked to develop robotics technologies and strategies that further the field of astronautics. In the 1990s, he pioneered a display system to visually integrate pitch, yaw, and roll data for shuttle robot arm operators, as well as working to repair the Hubble Space Telescope.
+  - year: 2010
+    name: Andrew Lovinger
+    description: Distinguished member of the staff at Bell Labs and has served as the head of the Polymers Program at the National Science Foundation. While at Bell Labs, he performed pioneering research on novel polymers which have unusual piezoelectric, ferroelectric, and semiconducting properties. These discoveries will impact the development of future sensors and electronic devices that can be prepared on flexible substrates and be wearable.
+  - year: 2009
+    name: Albert Pisano
+    description: A pioneer in the field of micro-electromechanical systems (MEMS), a technology using microscopic motors and other devices inmany aspects of our lives including drug delivery, strain sensors, inertial instruments, micro power generators, atomic clocks, RF components and disc drive actuators.
+  - year: 2008
+    name: Matthys Levy
+    description: Designer of domes, buildings and bridges, including the Georgia Dome Stadium in Atlanta, the Javits Convention Center and the Rose Center for Earth and Space in New York City, La Plata Stadium in Argentina, the Schalke Stadium Retractable Dome in Gelsenkirchen, Germany, and the Bank of China headquarters in Beijing. As the chair of Weidlinger Associates, he directed one of the world’s leading structural engineering and applied mechanics firms.
+  - year: 2007
+    name: Lotfi Zadeh
+    description: Pioneering work in systems analysis, and subsequent development of fuzzy logic–a novel logical system that breaks away from classical, Aristotelian logic.
+  - year: 2006
+    name: Guy Longobardo
+    description: Advanced the discipline of bioengineering, especially in the area of unstable respiratory disorders, applying the principles of applied mechanics and control theory to the field of physiology.
+  - year: 2005
+    name: Rudolf Kalman
+    description: Creator of modern control theory and system theory; his discovery of the Kalman Filter and of modern algebraic techniques revolutionized mathematics-based engineering.
+  - year: 2004
+    name: Helmut W. Schulz
+    description: President, Dynecology, Inc.; developed technology spanning uranium centrifugation, laser analysis, safe waste conversion technology and commercial processes; holds 64 United States and foreign patents.
+  - year: 2004
+    name: Masanobu Shinozuka
+    description: Distinguished Professor, Chair of Civil and Environmental Engineering, University of California, Irvine; a dominant intellectual leader in establishing probabilistic mechanics, structural reliability, and risk assessment.
+  - year: 2003
+    name: Robert E. Lindberg, Jr.
+    description: VP of Research and Development, National Institute of Aerospace; research leader for Orbital Sciences Corp, expanding its business in launch vehicles, orbit transfer vehicles and satellite systems.
+  - year: 2002
+    name: Jeffrey L. Bleustein
+    description: Chairman and CEO of Harley-Davidson, Inc., who transformed the company by leading the development of the V-Rod liquid-cooled engine, the V2 Evolution engine, Belt Drive, vibration isolation and the soft tail chassis.
+  - year: 2001
+    name: Charles R. LaMantia
+    description: Industrial leader, manager and businessman, who, as President, Chairman and CEO of Arthur D. Little, transformed the company into a global consulting firm. As President and CEO, led Koch Process Systems to become a successful manufacturer of standard systems for energy and process industries.
+  - year: 2000
+    name: Vittorio Castelli
+    description: Academician and researcher who led the field in the fluid dynamics of lubrication; founder of Xerox Mechanical Engineering Sciences Laboratory, whose electro-mechanical technology is used in nearly every Xerox product made today.
+  - year: 1999
+    name: Eliahu I. Jury
+    description: Academician who initiated the field of discrete-time systems, pioneered z-transforms and created the Jury stability test.
+  - year: 1998
+    name: Michael Attardo
+    description: IBM executive whose research on electromigration led to the development of a new generation of semiconductors using copper wiring.
+  - year: 1996
+    name: Anna K. Longobardo
+    description: Unisys executive responsible for more than 100 locations worldwide, set standards for managing large, complex global organizations.
+  - year: 1995
+    name: Arthur J. McEvily
+    description: Recognized worldwide as an expert in the field of fatigue growth in materials.
+  - year: 1994
+    name: Irwin Dorros
+    description: Responsible for all applied research, systems engineering, and software development for seven Bell companies and recognized as an international leader in telecommunications technology.
+  - year: 1993
+    name: Sheldon E. Isakoff
+    description: Known for work in development of processes for high-speed manufacture of synthetic fibers and films.
+  - year: 1992
+    name: Calvin A. Gongwer
+    description: Work inspired breakthrough in understanding design problems of cavitation and stall in centrifugal impellers; work formed basis for current design and study of centrifugal fans, pumps and propulsion systems, and was a milestone in development of effective and efficient hydraulic devices.
+  - year: 1991
+    name: Ferdinand Freudenstein
+    description: “Father of Modern Kinematics” – the dynamics of machines and mechanisms.
+  - year: 1990
+    name: Raymond P. Generaux
+    description: Plant designer for the plutonium purification project at Hanford, WA, for the Manhattan Project; also inventor of continuous flow processing for tetraethyl lead.
+  - year: 1989
+    name: Weldon S. Booth
+    description: Pioneer and innovator in foundation construction; key consultant to major rapid transit systems.
+  - year: 1989
+    name: Seymour J. Sindeband
+    description: Invented, patented, developed, and applied magnetic and acoustic mines for the Navy. Pioneered the first real-time commercial use of computers.
+  - year: 1988
+    name: Dudley D. Fuller
+    description: Developed the hydrostatic bearing.
+  - year: 1987
+    name: Robert L. Swigett
+    description: Pioneered in the development of printed electronic circuits.
+  - year: 1986
+    name: Elmer L. Gaden Jr.
+    description: “Father of biochemical engineering.”
+  - year: 1985
+    name: Richard T. Baum
+    description: Foremost practitioner of energy engineering.
+  - year: 1984
+    name: Joseph F. Engelberger
+    description: Father of industrial robotics.
+  - year: 1983
+    name: Melvin L. Baron
+    description: Authority in the field of ground and underwater shock.
+  - year: 1982
+    name: Henry L. Michel
+    description: Design and construction of mass transportation facilities.
+  - year: 1981
+    name: Edward Cohen
+    description: Creative research on structure design.
+  - year: 1980
+    name: Don O. Noel
+    description: Leader of the powder metallurgy industry.
+  - year: 1979
+    name: Arthur Hauspurg
+    description: Developed large-scale electrical power production and transmission.
+  - year: 1978
+    name: Donald M. Burmister
+    description: Developed first soil mechanics lab at Columbia University in 1933.
+  - year: 1977
+    name: Edward Joseph Goett
+    description: Drug manufacture and processing.
+  - year: 1977
+    name: Daniel Charles Drucker
+    description: Pioneer of the modern theory of plasticity.
+  - year: 1976
+    name: Samuel Logan Higginbottom
+    description: Aeronautic engineering leadership.
+  - year: 1975
+    name: Theodore Baumeister
+    description: Professor of mechanical engineering and expert on jet and van machinery.
+  - year: 1974
+    name: Raoul G. Bergman
+    description: Contribution to mining exploration.
+  - year: 1973
+    name: Lawrason Riggs III
+    description: Significant contributions to mining exploration and extrapolation techniques.
+  - year: 1972
+    name: Jewell M. Garrelts
+    description: Specialist in bridge design and construction.
+  - year: 1971
+    name: Raymond D. Mindlin
+    description: Mathematical theory of elasticity.
+  - year: 1970
+    name: Lawrence Gussman
+    description: Developed advanced technology for conversion of Guar Gum.
+  - year: 1969
+    name: Robert Dodd Lilley
+    description: Distinguished engineering achievements; former President of AT&T, Trustee of Columbia University.
+  - year: 1968
+    name: Maurice L. Sindeband
+    description: Developed processes of communication, transportation and electric power circuits.
+  - year: 1967
+    name: William Fondiller
+    description: Electrical engineer and inventor who redesigned the telephone into one compact unit.
+  - year: 1966
+    name: Theodore B. Counselman
+    description: Inventor of processes in magnetic separation, ore classification, synthetic rubber manufacturing and fluo-solids roasting.
+  - year: 1965
+    name: Paul Queneau
+    description: Fundamental discoveries in the field of process metallurgy.
+  - year: 1964
+    name: Arthur V. Loughren
+    description: Pioneer in radio and television engineering.
+  - year: 1963
+    name: Charles Mayer
+    description: Consulting engineering in structural design and foundations.
+  - year: 1962
+    name: Donald V. Lowe
+    description: Chemical engineer; contributor of significant advances to the paper industry.
+  - year: 1961
+    name: Charles M. Binckerhoff
+    description: Instrumental in developing mining industry in North and Latin America; provided outstanding service to Chilean people through mining industry.
+  - year: 1960
+    name: Augustin L. Queneau
+    description: Designer and developer of processes for the recovery of non-ferrous and rare metals.
+  - year: 1959
+    name: Robert A.W. Carleton
+    description: Civil engineer who constructed many of New York’s subway and railroad tunnels.
+  - year: 1958
+    name: Morris Goodkind
+    description: Director and chief designer, served as civilian consultant to the chief engineer of the U.S. Army in World War II.
+  - year: 1957
+    name: Robert Annan
+    description: Internationally known mining engineer and chairman of the Consolidated Gold Field of South Africa.
+  - year: 1956
+    name: Felix E. Wormser
+    description: Mineral engineering; Asst. Secretary of the Interior; development of uses of lead.
+  - year: 1955
+    name: Hyman G. Rickover
+    description: “Father of the Nuclear Navy.”
+  - year: 1954
+    name: Frank A. Ayer
+  - year: 1954
+    name: Walter H. Sammis
+    description: Served as President of the Edison Electric Institute; Trustee of Columbia University.
+  - year: 1953
+    name: Charles B. Spencer
+    description: Developed original methods for underpinning and installation of deep foundations; Director of Underpinning of the White House.
+  - year: 1952
+    name: Reginald J.S. Pigott
+    description: Authority on fluid-flow pumps and pioneer in design and construction of central steam power stations and industrial plants.
+  - year: 1951
+    name: David B. Steinman
+    description: Directed reconstruction of historic Brooklyn Bridge.
+  - year: 1950
+    name: Edmund A. Prentis
+    description: Foundation and subsurface specialist, directed reconstruction of the White House and major dry docks.
+  - year: 1949
+    name: Harvey S. Mudd
+    description: Mining and Metallurgical engineering.
+  - year: 1948
+    name: Sir Alfred Chester Beatty
+    description: Developer of international copper, gold and diamond mines.
+  - year: 1947
+    name: Philip Sporn
+    description: Pioneer of advanced engineering concepts.
+  - year: 1946
+    name: James Kip Finch
+    description: Educator and expert on hydraulics and on engineering economics.
+  - year: 1945
+    name: Richard E. Dougherty
+    description: Eminent railroad builder and executive.
+  - year: 1944
+    name: John F. Thompson
+    description: Investigated potentials of the nickel-copper alloy Monel, aided in research production of non-ferrous alloys.
+  - year: 1943
+    name: Thomas H. Chilton
+    description: Discovery and formulation of principles underlying the unit operations of chemical engineering.
+  - year: 1942
+    name: Reno H. Sales
+    description: Chief geologist of the Anaconda Copper Mining Company.
+  - year: 1941
+    name: Lazarus White
+    description: Authority on excavating and underpinning; in charge of tunneling and bracing for 8th and 6th Avenue subways.
+  - year: 1940
+    name: Grover Loening
+    description: Designer of first successful monoplane.
+  - year: 1939
+    name: Walter H. Aldridge
+    description: Dramatically augmented mineral production.
+  - year: 1939
+    name: Edwin H. Armstrong
+    description: Invented super-heterodyne circuit and FM radio.
+  - year: 1939
+    name: Gano Dunn
+    description: Author of more than thirty inventions in the design and construction of electrical machinery.
+  - year: 1939
+    name: Arthur S. Dwight
+    description: Co-inventor of sulphide ore, pioneer in devising ways to extract metal from ore.
+  - year: 1939
+    name: Henry Krumb
+    description: Pioneer in development of porphyry coppers.
+  - year: 1939
+    name: Irving Langmuir
+    description: Produced the gas-filled incandescent lamp, explorer of the vacuum.
+  - year: 1939
+    name: Leon S. Moisseiff
+    description: Outstanding bridge engineer.
+  - year: 1939
+    name: Robert Peele
+    description: Editor of the “Mining Engineering Handbook;” distinguished service in contributions to the literature of mining.
+  - year: 1939
+    name: Robert C. Stanley
+    description: Discovered Monel metal.
+  - year: 1939
+    name: Arthur L. Walker
+    description: Invented Walker casting machine, system of electrolytic copper refining and devised process to separate nickel and copper fromores.
+  - year: 1939
+    name: Stephan J.S. Pigott
+    description: Distinguished accomplishments in marine propulsion, particularly in turbine machinery.
+  - year: 1939
+    name: Marston T. Bogert
+    description: Bogert became the first professor of organic chemistry at Columbia and an internationally known chemist, focusing on syntheticorganic chemistry.

@@ -1,0 +1,48 @@
+---
+---
+
+$fa-font-path: '/assets/fonts/font-awesome';
+@import 'font-awesome';
+
+@import 'base/reset';
+@import 'base/breakpoints';
+@import 'base/colors';
+@import 'base/layout';
+@import 'base/spacing';
+@import 'base/typography';
+
+@import 'components/links';
+@import 'components/title_image';
+
+
+html {
+  font-size: 16px;
+}
+
+body {
+  color: $color-black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  letter-spacing: .04rem;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+p {
+  @extend .mvm;
+  color: $color-dark-grey;
+  line-height: 2rem;
+}
+
+ul {
+  @extend .mvm;  
+  padding-left: 1.5rem;
+}
+
+li {
+  @extend .mvt;
+  line-height: 2rem;
+  list-style-type: disc;
+}

@@ -1,0 +1,41 @@
+$font-size-map: (
+        '1': 2.5rem, // 40px
+        '2': 2rem, // 32px
+        '3': 1.5rem, // 24px
+        '4': 1rem, // 16px
+        '5': .875rem, // 14px
+);
+
+@each $font-size-number, $font-size in $font-size-map {
+  .t#{$font-size-number} {
+    font-size: $font-size;
+    line-height: $font-size + 0.5rem;
+  }
+
+  h#{$font-size-number}, .h#{$font-size-number} {
+    font-size: $font-size;
+    font-weight: 700;
+    line-height: $font-size + 0.5rem;
+  }
+  
+  h#{$font-size-number} {
+    margin-top: $spacing-large;
+    margin-bottom: $font-size;
+  }
+}
+
+strong, .bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text-uc {
+  text-transform: uppercase;
+}
+
+.text-ul {
+  text-decoration: underline;
+}

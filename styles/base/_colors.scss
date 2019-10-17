@@ -1,0 +1,40 @@
+$color-black: #212121;
+$color-navy: #2d2a62;
+$color-blue: #2c6bac;
+$color-light-blue: #b9d9eb;
+$color-dark-grey: #363636;
+$color-grey: #4a4a4a;
+$color-light-grey: #909090;
+$color-off-white: #f5f5f5;
+$color-white: #ffffff;
+
+
+$color-map: (
+        'black': $color-black,
+        'navy': $color-navy,
+        'blue': $color-blue,
+        'light-blue': $color-light-blue,
+        'dark-grey': $color-dark-grey,
+        'grey': $color-grey,
+        'light-grey': $color-light-grey,
+        'off-white': $color-off-white,
+        'white': $color-white,
+);
+
+@mixin color-classes($color-name, $color) {
+  .color-#{$color-name} {
+    color: $color;
+  }
+
+  .color-bg-#{$color-name} {
+    background-color: $color;
+  }
+
+  .color-bd-#{$color-name} {
+    border: 1px solid $color;
+  }  
+}
+
+@each $color-name, $color in $color-map {
+  @include color-classes($color-name, $color);
+}
