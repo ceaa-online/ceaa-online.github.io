@@ -31,5 +31,3 @@ font-awesome:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-theme: jekyll-theme-minimal
