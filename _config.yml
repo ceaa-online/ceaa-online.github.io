@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CEAA
-email: info@ceaa.online
+email: seasalumni@columbia.edu
 description: >
   Columbia Engineering Alumni Association
 baseurl: ""
-url: "https://ceaa.online"
+url: "https://myceaa.org"
 facebook_username: myceaa
 instagram_username: myceaa
 twitter_username: myceaa
