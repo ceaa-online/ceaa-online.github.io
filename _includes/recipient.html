@@ -2,13 +2,19 @@
     <div class='mrm'>
         {{ recipient.year }}
     </div>
+    {% if recipient.recipients %}
     <div class='bold'>
         {{ recipient.recipients }}
     </div>
+    {% endif %}
+    {% if recipient.name %}
     <div class='mrm bold' style='min-width: 16rem'>
         {{ recipient.name }}
     </div>
+    {% endif %}
+    {% if recipient.description %}
     <div class='mts-sm'>
         {{ recipient.description }}
     </div>
+    {% endif %}
 </div>
