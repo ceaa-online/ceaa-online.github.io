@@ -18,6 +18,12 @@ description: >
   Science or must have otherwise been affiliated with Columbia University in some capacity such as a student, fellow,
   resident, faculty member, or visiting faculty member for at least one academic year.
 recipients:
+  - year: 2022
+    name: Dr. Brian Greene
+    description: Professor Greene is the Director of Columbia’s Center for Theoretical Physics and a Professor of Mathematics and Physics. Dr. Green’s research focuses on high energy nuclear/particle physics.  He is world-renowned for his numerous innovative discoveries ranging from the fields of superstring theory to spatial topology change. Professor Greene’s latest book, Until the End of Time, focuses on understanding the Universe, deep time, and humanity’s search for purpose.
+  - year: 2022
+    name: Dr. Alfred V. Aho
+    description: Alfred Vaino Aho is a Canadian computer scientist best known for his work on programming languages, compilers, and related algorithms, and his textbooks on the art and science of computer programming. Dr. Aho was elected into the National Academy of Engineering in 1999 for his contributions to the fields of algorithms and programming tools. He and his long-time collaborator, Jeffrey Ullman, were the recipients of the 2020 Turing Award, generally recognized as the highest distinction in computer science.
   - year: 2018
     name: Dr. Robert Grubbs
     description: Dr. Grubbs’ ground breaking work in organometallic chemistry has had broad applications in pharmaceuticals, biotechnology, agriculture, and plastics.
