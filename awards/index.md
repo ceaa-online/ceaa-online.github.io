@@ -28,8 +28,8 @@ presentation shall be made posthumously in accordance with a procedure to be pre
 
 ### Nominate a Candidate
 
-* Complete the [nomination form](https://goo.gl/forms/HIFVnkGsnt2gCjoG2) after reviewing the criteria for the CEAA 
-medals  
+* Complete the [nomination form](https://seas.co1.qualtrics.com/jfe/form/SV_4UzZH5PxDBmXCLA) after reviewing the criteria for the CEAA 
+medals
 * Obtain the nominee’s most recent curriculum vitae or provide the detailed information on education and achievements
 requested in the nomination form  
 * You may suggest up to three additional references in addition to your own statement in support of the nominee.
